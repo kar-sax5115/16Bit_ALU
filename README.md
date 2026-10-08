@@ -71,7 +71,6 @@ The testbench (`alu_16bit_tb`) verifies:
 
 Key Features:
 
-* Uses `$monitor` for real-time output tracking
 * Sequential test execution using delay (`#10`)
 * Easy waveform visualization in simulation tools
 
